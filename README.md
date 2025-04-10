@@ -42,4 +42,4 @@
   - Android Studio, GitHub, Git, Visual Studio Code
   - Postman, Docker, Jenkins
 
-p align="center"> <a href="mailto:mahdi@gmail.com"> <img src="https://img.shields.io/badge/-Email-blue?style=flat-square&logo=gmail" alt="Email" /> </a> <a href="https://www.linkedin.com/in/mahdidebugger"> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /> </a> <a href="https://t.me/mahdi_debugger"> <img src="https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=telegram" alt="Telegram" /> </a> <a href="https://github.com/MAHDI-DEBUGGER"> <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" alt="GitHub" /> </a> </p
+
