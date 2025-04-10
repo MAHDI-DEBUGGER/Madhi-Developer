@@ -41,18 +41,23 @@
 🧰 **Tools**:
   - Android Studio, GitHub, Git, Visual Studio Code
   - Postman, Docker, Jenkins
-
 ## 📫 ارتباط با من | Connect with Me
 
 <p align="center">
-  <a href="mahdihaghshenas2025@gmail.com">
+  <a href="mailto:mahdi@gmail.com">
     <img src="https://img.shields.io/badge/-Email-blue?style=flat-square&logo=gmail" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/mahdi-haghshenas-2a1321339r">
+  <a href="https://www.linkedin.com/in/mahdidebugger">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
-  
+  <a href="https://t.me/mahdi_debugger">
+    <img src="https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=telegram" alt="Telegram" />
+  </a>
   <a href="https://github.com/MAHDI-DEBUGGER">
     <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://www.mahdidebugger.com">
+    <img src="https://img.shields.io/badge/-Website-green?style=flat-square&logo=google-chrome" alt="Website" />
+  </a>
 </p>
 
