@@ -1,4 +1,4 @@
-<h1 align="center">سلام! من مهدی‌ام 👋</h1>
+<h1 align="center">سلام! من **مهدی** هستم 👋</h1>
 <h3 align="center">Android Developer | Network Specialist | UI/UX Enthusiast</h3>
 
 <p align="center">
@@ -7,33 +7,37 @@
 
 ---
 
-## 🧠 درباره من
+## 🧠 درباره من | About Me
 
-- 💻 برنامه‌نویس اندروید با تمرکز روی Java / kotlinو معماری MVVM
-- 🌐 متخصص شبکه با مدرک cisco و مهارت در پیکربندی شبکه‌ها، فایروال و سرورها
-- 🎯 هدف: کار با تیم‌های بین‌المللی و پروژه‌های ریموت
-- 🎨 علاقه‌مند به طراحی رابط کاربری و تجربه کاربری (Dark UI, Material Design)
-  
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" alt="Profile Image" width="200"/>
+</p>
+
+- 💻 **Android Developer** با تخصص در معماری MVVM و Java
+- 🌐 **متخصص شبکه** با تجربه در Cisco, Mikrotik، سرور و فایروال
+- 🎯 علاقه‌مند به یادگیری و به اشتراک‌گذاری دانش
+- 🧑‍💻 فعال در زمینه **UI/UX Design** و تجربه کاربری
+- 🚀 به دنبال چالش‌های جدید و کارهای ریموت
 
 ---
 
 ## 🛠 مهارت‌ها | Skills
 
 ```bash
-📱 Android Development:
-  - Java, kotlin ,MVVM, XML, LiveData, ViewModel, RecyclerView
-  - Git, GitHub, Firebase, Retrofit, Room, Material UI
+📱 **Android Development**:
+  - Java, MVVM, XML, LiveData, ViewModel, RecyclerView, Retrofit
+  - Firebase, Room, Glide, Material UI, Coroutines
 
-🌐 Network & Server:
-  - Cisco Configuration (Switching & Routing)
-  - Mikrotik, Windows Server, DHCP, DNS
-  - Firewall Setup & Management (Kerio, MikroTik)
-  - Network Troubleshooting & Security
-  - Vmware 
+🌐 **Network & Server**:
+  - Cisco (Routing, Switching)
+  - Mikrotik, Windows Server
+  - DHCP, DNS, Firewall (Kerio, MikroTik)
+  - Network Security, VPN, Troubleshooting
 
-🎨 UI/UX:
-  - Material Design, Dark Mode UI, Clean Layouts
-  - Prototyping with Figma
+🎨 **UI/UX Design**:
+  - Material Design, Dark Mode, Responsive Layouts
+  - Prototyping and Wireframing (Figma, Sketch)
 
-🧰 Tools:
-  - Android Studio, GitHub, Visual Studio Code
+🧰 **Tools**:
+  - Android Studio, GitHub, Git, Visual Studio Code
+  - Postman, Docker, Jenkins
